@@ -9,9 +9,9 @@ global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
 global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
-global.botname = 'Zenitsu-Bot' //ur bot name
-global.ownernumber = '917029257330' //ur owner number
-global.ownername = '🦄Dream Guy Deepak' //ur owner name
+global.botname = '@_𝚁𝚊𝚜𝚒𝚢𝚊999' //ur bot name
+global.ownernumber = '94783694260' //ur owner number
+global.ownername = '@_𝑅𝛥𝑆𝛪𝑌𝛥999' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
 global.themeemoji = '🦄'
@@ -21,16 +21,16 @@ global.packname = "Sticker By"
 global.author = "🦄Dream Guy Deepak"
 global.creator = "917029257330@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["917029257330","918348225320"] // Premium User
+global.premium = ["917029257330","918348225320","94783694260] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v1' // menu type 'v1' => 'v12'
+global.typemenu = 'v2' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = true //welcome/left in groups
-global.anticall = true //bot blocks user when called
+global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
